@@ -1,4 +1,4 @@
-Just learn somethings
+Just learning somethings
 
 <!---
 cui2038cn/cui2038cn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
